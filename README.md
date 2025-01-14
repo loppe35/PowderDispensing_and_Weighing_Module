@@ -20,4 +20,4 @@ To clone this repository along with its submodules:
 gh repo clone loppe35/PowderDispensing_and_Weighing_Module
 ```
 ## Contributing
-Contributions are greatly appreciated and vital for the project's success. If you are interested in contributing, please review the contributing guidelines in each submodule. These guidelines will provide detailed instructions on how to make contributions in line with project requirements.
+Contributions are greatly appreciated and vital for the project's success. If you are interested in contributing, please review the licensing guidelines. These guidelines will provide detailed instructions on how to make contributions in line with project requirements.
