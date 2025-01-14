@@ -1,7 +1,7 @@
 # Main Project: Powder Dispenser
 
 ## Overview
-This repository houses the entire Powder Dispenser project, structured into hardware and software components. Each component is maintained in its own submodule to facilitate independent development and versioning.
+This repository houses the entire Powder Dispenser project, structured into [hardware](https://github.com/loppe35/PowderDispenser_BuildFiles.git) and [software](https://github.com/loppe35/PowderDispenser_FWSW.git) components. Each component is maintained in its own submodule to facilitate independent development and versioning.
 
 ## Structure
 - **hardware/**: Contains all hardware design files, schematics, and related documentation for the Powder Dispenser.
