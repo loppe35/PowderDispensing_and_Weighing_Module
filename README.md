@@ -1,4 +1,4 @@
-# Main Project: Powder Dispenser
+# Main Project: Powder Dispenser and Weighing Module
 
 ## Overview
 This repository houses the entire Powder Dispenser project, structured into [hardware](https://github.com/loppe35/PowderDispenser_BuildFiles.git) and [software](https://github.com/loppe35/PowderDispenser_FWSW.git) components. Each component is maintained in its own submodule to facilitate independent development and versioning.
