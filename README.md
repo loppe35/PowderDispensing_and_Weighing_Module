@@ -17,7 +17,7 @@ Please review the LICENSE files located in each submodule for detailed licensing
 ## Getting Started
 To clone this repository along with its submodules:
 ```bash
-git clone --recurse-submodules https://github.com/yourusername/main-repository-name.git
+gh repo clone loppe35/PowderDispensing_and_Weighing_Module
 ```
 ## Contributing
 Contributions are greatly appreciated and vital for the project's success. If you are interested in contributing, please review the contributing guidelines in each submodule. These guidelines will provide detailed instructions on how to make contributions in line with project requirements.
