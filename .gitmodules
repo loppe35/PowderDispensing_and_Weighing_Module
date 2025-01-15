@@ -1,5 +1,5 @@
 [submodule "Hardware"]
-	path = Hardware
+	path = hardware
 	url = https://github.com/loppe35/PowderDispenser_BuildFiles.git
 [submodule "Firmware and Software"]
 	path = Firmware_and_Software
