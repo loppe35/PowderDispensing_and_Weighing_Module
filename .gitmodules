@@ -4,3 +4,6 @@
 [submodule "Firmware and Software"]
 	path = Firmware_and_Software
 	url = https://github.com/loppe35/PowderDispenser_FWSW.git
+[submodule "Data"]
+	path = Data
+	url = https://github.com/loppe35/PowderDispenser_Data.git

@@ -1,0 +1,6 @@
+- Desired amount: 0.353g
+- safety margin: 0%
+- Target amount: 0.353g
+- Test type: Low initial step run relying on auger 20% of target. agrressive steps at first running 400 steps, until 70% of the target is reached, and then lowering the steps to 200, increase stability and potentially add some data for pattern recognition in the future(never implemented), before starting another 400 step burst from 85% of the target until 95% is reached where the step resolution is turned down to 100
+ 
+ 
