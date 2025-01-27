@@ -7,3 +7,12 @@
 [submodule "Data"]
 	path = Data
 	url = https://github.com/loppe35/PowderDispenser_Data.git
+[submodule "PowderDispenser_BuildFiles"]
+	path = PowderDispenser_BuildFiles
+	url = https://github.com/loppe35/PowderDispenser_BuildFiles.git
+[submodule "PowderDispenser_Data"]
+	path = PowderDispenser_Data
+	url = https://github.com/loppe35/PowderDispenser_Data.git
+[submodule "PowderDispenser_FWSW"]
+	path = PowderDispenser_FWSW
+	url = https://github.com/loppe35/PowderDispenser_FWSW.git
