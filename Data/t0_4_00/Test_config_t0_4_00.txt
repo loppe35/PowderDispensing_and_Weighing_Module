@@ -1,6 +1,0 @@
-- Desired amount: 0.4g
-- safety margin: 0%
-- Target amount: 0.4g
-- Test type: Short initial auger dependent run(40% of target), and longer step interval in feedback(200steps) until 97% and 20steps last 3%
-- Short settling time
- 

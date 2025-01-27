@@ -1,6 +1,0 @@
-- Desired amount: 0.5g
-- safety margin: 5%
-- Target amount: 0.475g
-- Test type: 2 long initial runs relying on auger for the first 70% and measuring and then relying on the auger for the remaining 20% up on til 90% of the target amount, where the simple 		feedback sets in and continuous measuring happens and a step resolution of (100steps).
- 
- 
