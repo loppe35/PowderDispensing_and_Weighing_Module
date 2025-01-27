@@ -9,14 +9,14 @@ This repository is the central hub for the **Powder Dispenser and Weighing Modul
 ## Repository Structure
 This repository primarily links to its two submodules:
 
-### **[hardware](https://github.com/loppe35/PowderDispenser_BuildFiles.git)**
+### **[Hardware](https://github.com/loppe35/PowderDispenser_BuildFiles.git)**
 - Contains all hardware-related files, including:
   - 3D models (STL and STEP files) for prototyping and manufacturing.
   - Circuit schematics and layouts.
   - Assembly instructions.
 - Licensed under the **CERN Open Hardware License v2.0 (OHL-W)**.
 
-### **[software](https://github.com/loppe35/PowderDispenser_FWSW.git)**
+### **[Software](https://github.com/loppe35/PowderDispenser_FWSW.git)**
 - Includes software and firmware components:
   - Source code and libraries for hardware control.
   - Configuration files for customizing the system.
